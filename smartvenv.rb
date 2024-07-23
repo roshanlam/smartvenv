@@ -11,7 +11,7 @@ class Smartvenv < Formula
 
   resource "pip-tools" do
     url "https://files.pythonhosted.org/packages/source/p/pip-tools/pip-tools-6.4.0.tar.gz"
-    sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    sha256 "65553a15b1ba34be5e43889345062e38fb9b219ffa23b084ca0d4c4039b6f53b"
   end
 
   def install
