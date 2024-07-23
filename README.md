@@ -21,7 +21,7 @@ pip install smartvenv
 ### From Homebrew
 
 ```sh
-brew tap yourusername/smartvenv
+brew tap roshanlam/smartvenv
 brew install smartvenv
 ```
 
