@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.py
+smartvenv.egg-info/PKG-INFO
+smartvenv.egg-info/SOURCES.txt
+smartvenv.egg-info/dependency_links.txt
+smartvenv.egg-info/entry_points.txt
+smartvenv.egg-info/requires.txt
+smartvenv.egg-info/top_level.txt
